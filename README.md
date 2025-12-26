@@ -28,4 +28,5 @@ github -p <path_project folder> -r <repository name> --private --token <your_tok
 
 ### 🎉 Usage example
 
-github -p "C:pathtoyourproject" -r "my-awesome-repo" --private --token "ghp
+github -p "C:\path\toyour\project" -r "my-awesome-repo" --private --token "ghp
+
